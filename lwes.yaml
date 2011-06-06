@@ -1,0 +1,6 @@
+---
+:lwes_server: '224.1.1.11'
+:lwes_port: 12345
+:heartbeat: 30
+:ttl: 16
+:typedb: 'puppet.esf'

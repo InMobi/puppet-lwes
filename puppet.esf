@@ -1,0 +1,17 @@
+MetaEventInfo
+{
+  ip_addr SenderIP;
+}
+
+Metrics
+{
+  int32 started;
+  int32 finished;
+  int32 config_retrieval_time;
+  int32 filebucket_time;
+  int32 schedule_time;
+  int32 total_time;
+  int32 total_resources;
+  int32 total_events;
+  int32 total_changes;
+}
