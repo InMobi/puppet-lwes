@@ -42,13 +42,13 @@ Installation & Usage
 Author
 ------
 
-Shanker Balan <mail@shankerbalan.net>
+Shanker Balan <shanker.balan@inmobi.com>
 
 License
 -------
 
-    Author:: Shanker Balan (<mail@shankerbalan.net>)
-    Copyright:: Copyright (c) 2011 Shanker Balan
+    Author:: Shanker Balan (<shanker.balan@inmobi.com>)
+    Copyright:: Copyright (c) 2011 InMobi
     License:: The BSD License
 
 
